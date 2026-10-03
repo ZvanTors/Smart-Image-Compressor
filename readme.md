@@ -20,10 +20,6 @@
   <img src="screenshots/preview.png" alt="Smart Image Compressor screenshot" width="820" />
 </p>
 
-<blockquote>
-  <p>If the image doesn't show, add a screenshot to <code>screenshots/preview.png</code>.</p>
-</blockquote>
-
 <hr />
 
 <h2>Features</h2>
